@@ -1,11 +1,11 @@
 ---
 title: "How to easily configure Canon LBP-1120 printer on Arch Linux"
 categories:
-	- Arch Linux
+  - Arch Linux
 tags:
-	- Arch
-	- LBP1120
-	- Linux
+  - Arch
+  - LBP1120
+  - Linux
 ---
 
 Install packages: `capt-sr`c and `cups` 
@@ -36,8 +36,8 @@ In my case that was **CNCUPSLBP1120CAPTK.ppd**
 
 5. Now you can easily `cd /dev/usb/` and `ls`. Just find name of your **lp*** device. In my case it was **lp2**. 
 
-**Attention!** Note that you have to provide full path! For example: **/dev/usb/lp2**
-{: .notice--warning}
+	**Attention!** Note that you have to provide full path! For example: **/dev/usb/lp2**
+	{: .notice--warning}
 
 6. Execute: 
 	
