@@ -8,7 +8,7 @@ tags:
   - Linux
 ---
 
-Install packages: `capt-sr`c and `cups` 
+Install packages: `capt-src` and `cups` 
 Then follow simple instruction, <> used for templating:
 
 1. Add yourself to lp group: 
