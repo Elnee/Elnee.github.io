@@ -1,10 +1,10 @@
 ---
 title: "How to easily configure Canon LBP-1120 printer on Arch Linux"
 categories:
-  - Arch Linux
+  - Troubleshooting
 tags:
-  - LBP1120
   - Linux
+  - LBP1120
 ---
 
 Install packages: `capt-src` and `cups` 
