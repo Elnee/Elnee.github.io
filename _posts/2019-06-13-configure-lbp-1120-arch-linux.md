@@ -3,7 +3,6 @@ title: "How to easily configure Canon LBP-1120 printer on Arch Linux"
 categories:
   - Arch Linux
 tags:
-  - Arch
   - LBP1120
   - Linux
 ---
